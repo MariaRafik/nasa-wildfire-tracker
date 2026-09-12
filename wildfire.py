@@ -2,7 +2,7 @@ import pandas as pd
 import folium
 from folium.plugins import MarkerCluster
 
-MAP_KEY="27bbcfa151a7ba4dfbc74b5f25e07946"
+MAP_KEY = "YOUR_NASA_FIRMS_API_KEY" # Replace with your key before running
 source="VIIRS_NOAA20_NRT"
 area="-74,-18,-44,5"
 day_range=3
